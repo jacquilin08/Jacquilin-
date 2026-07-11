@@ -1,49 +1,109 @@
-# Jacquilin S
+<div align="center">
 
-### Software Developer | Computer Science Engineer
+# Hi, I'm Jacquilin 👋
 
-Computer Science student specializing in mobile and web application development with Flutter, Dart, and modern JavaScript frameworks. Experienced in full-stack development, database integration, and UI/UX design — focused on building efficient, user-friendly, production-ready applications.
+### B.E. Computer Science and Engineering | Full-Stack & Mobile Developer in progress
 
-**Currently:** Web Developer Intern @ Lasak Edu | B.E. CSE, Jansons Institute of Technology (CGPA: 8.9)
+I build web and mobile projects end-to-end — from animated front-ends to Node.js/MongoDB backends — and I'm currently interning as a Web Developer at Lasak Edu, Coimbatore.
 
-**Open to:** Flutter Developer · Full Stack Developer · Mobile App Developer roles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacquilin-s-360a0a339)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacquilin08)
 
----
-
-## Technical Skills
-
-| Category | Skills |
-|---|---|
-| **Languages** | C, C++, Python, Java, Dart |
-| **Mobile** | Flutter, Material Design 3 |
-| **Web** | HTML5, CSS3, JavaScript, React, Bootstrap |
-| **Database** | SQLite, MySQL |
-| **Tools** | Git, GitHub, VS Code |
-| **Concepts** | Data Structures, OOP, DBMS, REST APIs, MVC |
+</div>
 
 ---
 
-## Projects
+### 🧑‍💻 About Me
 
-**ShopCart Pro** — E-commerce mobile app  
-`Flutter` `Dart` `SQLite` `Material Design 3`  
-Full-featured shopping cart app with product catalog, category filtering, cart management, and checkout system.
-🔗 [Repository](https://github.com/jacquilin08/ShopCartPro)
-
-**TaskFlow** — Cross-platform to-do app  
-`Flutter` `Dart` `HTML5` `CSS3` `JavaScript`  
-Task management app built for both mobile (Flutter) and web (vanilla JS), with task creation, editing, and completion tracking.
-🔗 [Repository](https://github.com/jacquilin08/TaskFlow)
-
-**Chat App** — Real-time messaging app  
-`Flutter` `Dart` `Firebase`  
-Real-time chat application with Firebase Authentication and Realtime Database for instant message delivery.
-🔗 [Repository](https://github.com/jacquilin08/ChatApp)
+- 🎓 Second-year CSE student at Jansons Institute of Technology, Coimbatore
+- 💼 Web Developer Intern at **Lasak Edu**, building and documenting production web projects
+- 🌱 Currently deepening my skills in **React, Next.js, Flutter, and backend systems**
+- 🎯 Aiming for roles spanning **full-stack and mobile development**
+- ⚡ Fun fact: I like turning "simple" front-end demos into scroll-animation playgrounds
 
 ---
 
-## Contact
+### 🛠️ Tech Stack
 
-📧 jacquilinjayasheli@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/jacquilin-s-360a0a339)  
-💻 [GitHub](https://github.com/jacquilin08)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧭 [TravelBharat](https://github.com/jacquilin08/travelbharat)**
+A single-page tourism site with GSAP scroll-driven storytelling — pinned horizontal scroll, particle hero, and a filterable destination carousel.
+`JavaScript` `GSAP` `CSS3`
+
+</td>
+<td width="50%" valign="top">
+
+**📋 [TaskMaster Pro](https://github.com/jacquilin08/taskmaster-pro)**
+Kanban + Pomodoro + analytics productivity app, backed by a full Node.js/Express/MongoDB API with JWT auth.
+`Node.js` `Express` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💬 [ChatFlow](https://github.com/jacquilin08/chatflow)**
+Real-time chat application built with Flutter and Firebase, with live message sync and auth.
+`Flutter` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 [ShopCart Pro](https://github.com/jacquilin08/shopcart-pro)**
+An e-commerce front-end project focused on cart logic, product filtering, and responsive UI.
+`JavaScript` `HTML5` `CSS3`
+
+</td>
+</tr>
+</table>
+
+*See all projects on my [pinned repositories →](https://github.com/jacquilin08?tab=repositories)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacquilin08&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Jacquilin's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquilin08&layout=compact&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacquilin08&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+<p>
+  <a href="https://linkedin.com/in/jacquilin-s-360a0a339"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<div align="center">
+<sub>Thanks for stopping by — always open to collaborating on interesting front-end or full-stack projects.</sub>
+</div>
