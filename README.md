@@ -85,18 +85,6 @@ An e-commerce front-end project focused on cart logic, product filtering, and re
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacquilin08&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Jacquilin's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquilin08&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacquilin08&hide_border=true" alt="GitHub streak" />
-</p>
-
----
 
 ### 📫 Reach Me
 
